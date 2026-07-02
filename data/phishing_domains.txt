@@ -1,0 +1,9 @@
+# Known phishing domains (example list - expand with real feeds)
+paypa1.com
+googIe.com
+faceb00k.com
+amaz0n.com
+micr0soft.com
+bank0famerica.com
+welIsfargo.com
+chasebanking.com
